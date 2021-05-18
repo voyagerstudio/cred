@@ -1,1 +1,15 @@
-{"repositories": ["voyagerstudio/cred"]}
+{
+    "repositories": [
+        "voyagerstudio/cred",
+        "voyagerstudio/cherrypicked-web",
+        "voyagerstudio/upto.fyi",
+        "voyagerstudio/masterpieces-app",
+        "voyagerstudio/cherrypicked-browser-extension",
+        "voyagerstudio/voyagerlog.github.io",
+        "voyagerstudio/cherrypicked-server",
+        "voyagerstudio/handbook",
+        "voyagerstudio/saturnfive",
+        "voyagerstudio/saturnfive-docs",
+        "voyagerstudio/launch-sequence"
+    ]
+}
